@@ -1,0 +1,32 @@
+/* src/components/HomePage.css */
+
+.container {
+  text-align: center;
+}
+
+.container h1 {
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.country-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.country-table th,
+.country-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.country-table th {
+  background-color: #f2f2f2;
+}

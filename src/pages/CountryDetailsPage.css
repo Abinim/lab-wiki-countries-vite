@@ -1,0 +1,21 @@
+/* src/pages/CountryDetailsPage.css */
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flag-container {
+  flex: 0 0 20%;
+}
+
+.details-container {
+  flex: 0 0 75%;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+/* Add more styles as needed */
